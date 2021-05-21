@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NguyenDucNam-Ktra2-Bai2</string>
+    <string-array name="khoahoc_array">
+        <item>Tieng anh</item>
+        <item>Cntt</item>
+        <item>Kinh te</item>
+        <item>Truyen thong</item>
+
+    </string-array>
+</resources>
